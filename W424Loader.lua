@@ -8,7 +8,7 @@ local keyLink = "https://w424cloud.netlify.app/"
 local Players = game:GetService("Players")
 local TweenService = game:GetService("TweenService")
 
-local player = Players.LocaPlayer
+local player = Players.LocalPlayer
 local playerGui = player:WaitForChild("PlayerGui")
 
 local gui = Instance.new("ScreenGui")
