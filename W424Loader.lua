@@ -2,6 +2,7 @@ local correctKeys = {
 	["KINGS-8762bf2e-b6ab-434e-b37d-b38cdecb6a9d"] = true,
 	["NORMAL-8762bf2e-b6ab-434e-b37d-b38cdecb6a9d"] = true,
 	["ATOMIC-8762bf2e-b6ab-434e-b37d-b38cdecb6a9d"] = true,
+	["KEYADMIN"] = true
 }
 local keyLink = "https://w424cloud.netlify.app/"
 
