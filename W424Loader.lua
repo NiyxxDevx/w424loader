@@ -393,7 +393,7 @@ local function showStartupInterface()
 	end
 
 	task.wait(0.35)
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/GrexXmeng/mengs/refs/heads/main/W424Loader"))()
+	loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/97c3f6db55a2cf72141537a85458e5a7.lua"))()
 	gui:Destroy()
 end
 
